@@ -2,13 +2,16 @@
   --background-color: #000028;
   --font-family: 'IBM Plex Mono', sans-serif;
   --font-size: 18px;
+  --text-color: #F1B2CE;
   --headline-color: #DB00FF;
-  --headline-size: 116px;
   --title-color: #FF0070;
   --title-margin: 55px;
   --title-highlight-text: #000028;
   --accent-color: #ff0070;
   --padding-main: 10px;
   --menu-color: #ff0070;
-
+  --button-hover: 1px solid rgba(255, 0, 112, 0.40);
+  --button-active: 1px solid #FF0070;
+  --title-bold: 700;
+  --title-regular: 400;
 }
